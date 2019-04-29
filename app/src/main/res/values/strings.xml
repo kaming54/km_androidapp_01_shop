@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">km_androidapp_01_shop</string>
+    <string name="menu_home_text">首頁</string>
+    <string name="menu_shop_text">商店</string>
+    <string name="menu_cart_text">購物車</string>
+    <string name="menu_me_text">個人中心</string>
+</resources>
